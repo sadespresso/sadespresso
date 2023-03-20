@@ -4,6 +4,25 @@
 <h3 align="center">an aspiring young software developer</h3>
 </div>
 
+### ⚒️ What I'm working on
+
+* [moment_dart](https://pub.dev/packages/moment_dart) - A [moment.js](https://momentjs.com/) inspired Multi-purpose immutable DateTime subclass.
+* Mostly work projects
+
+### 📚 What I'm learning
+
+* [Docker](https://www.docker.com/)
+* [SvelteKit](https://kit.svelte.dev/)
+* [NestJS](https://nestjs.com/)
+
+### ✨ Fun facts
+
+* I love 💖 iced caramel macchiato
+* Campfire strummer 🎸
+* a ISFP-T
+
+> If you wanna grab coffee, hit me up on any of my socials. (not Twitter tho)
+
 <!--
 **sadespresso/sadespresso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
