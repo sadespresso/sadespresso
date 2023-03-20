@@ -1,4 +1,8 @@
-### Hi there 👋
+<div style="text-align:center;">
+<h3 align="center">Hi! I'm Batmend Ganbaatar</h3>
+<p align="center"><img src="https://user-images.githubusercontent.com/51638223/226281237-a1e71cc4-a117-4cfe-8a05-4b8436ffed02.PNG" alt="Memoji version of Batmend Ganbaatar" width="128" height="128"></p>
+<h3 align="center">an aspiring young software developer</h3>
+</div>
 
 <!--
 **sadespresso/sadespresso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
