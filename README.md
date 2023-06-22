@@ -4,36 +4,34 @@
 <h3 align="center">an aspiring young software developer</h3>
 </div>
 
-### ⚒️ What I'm working on
+## 🧑 About me
 
-* [moment_dart](https://pub.dev/packages/moment_dart) - A [moment.js](https://momentjs.com/) inspired Multi-purpose immutable DateTime subclass.
-* Mostly work projects
+📍 Ulaanbaatar, Mongolia <br />
+🧿 ISFP-T <br />
+☕ Iced coffee enjoyer
 
-### 📚 What I'm learning
+## ⚙️ What do I use
 
-* [Docker](https://www.docker.com/)
-* [SvelteKit](https://kit.svelte.dev/)
+* [Flutter](https://flutter.dev/) & [Dart](https://dart.dev/)
+* [Node.js](https://nodejs.org)
+* [TypeScript](https://www.typescriptlang.org/)
 * [NestJS](https://nestjs.com/)
+* [Svelte](https://svelte.dev/) & [SvelteKit](https://kit.svelte.dev/)
+* [Docker](https://www.docker.com/)
 
-### ✨ Fun facts
+<!-- ## 💼 My projects
 
-* I love 💖 iced mocha
-* Campfire strummer 🎸
-* a ISFP-T
+### Gegee Guitar
 
-> If you wanna grab coffee, hit me up on any of my socials.
-<!--
-**sadespresso/sadespresso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A free guitar tab platform where anyone can use & upload tabs. Available on Web, Android, and iOS. See it 
 
-Here are some ideas to get you started:
+### moment_dart
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[moment.js](https://momentjs.com/) inspired DateTime manipulation/display library. See it on [pub.dev](https://pub.dev/packages/moment_dart) -->
 
+
+<hr>
+
+## ✨ Connect with me
+
+[![batmend@gege.mn](https://img.shields.io/badge/batmend%40gege.mn-8500a6?style=for-the-badge&logo=maildotru&logoColor=f5f6fa)](mailto:batmend@gege.mn) [![sadespresso_](https://img.shields.io/badge/sadespresso__-1d9bf0?style=for-the-badge&logo=twitter&logoColor=f5f6fa)](https://twitter.com/sadespresso_) [![sadespress0](https://img.shields.io/badge/sadespress0-2374E1?style=for-the-badge&logo=facebook&logoColor=f5f6fa)](https://www.facebook.com/sadespress0/) [![yourstepbf](https://img.shields.io/badge/yourstepbf-E1306C?style=for-the-badge&logo=instagram&logoColor=f5f6fa)](https://www.instagram.com/yourstepbf)
