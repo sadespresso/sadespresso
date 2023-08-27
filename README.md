@@ -3,12 +3,12 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/51638223/226281237-a1e71cc4-a117-4cfe-8a05-4b8436ffed02.PNG" alt="Memoji version of Batmend Ganbaatar" width="128" height="128"></p>
 <h3 align="center">an aspiring young software developer</h3>
 </div>
-
+  
 ## 🧑 About me
 
 📍 Ulaanbaatar, Mongolia <br />
-🧿 ISFP-T <br />
-☕ Iced coffee enjoyer
+☕ Iced coffee enjoyer <br />
+✨ <https://dev.gege.mn>
 
 ## ⚙️ What do I use
 
